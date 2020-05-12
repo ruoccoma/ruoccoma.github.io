@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](../_cv/CV_Ruocco.pdf)
+You can download my CV [here](https://github.com/ruoccoma/ruoccoma.github.io/tree/master/_cv/CV_Ruocco.pdf)
