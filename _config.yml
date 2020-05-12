@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Massimiliano Ruocco / PhD"
+title                    : "Massimiliano Ruocco"
 title_separator          : "-"
-name                     : &name "Massimiliano Ruocco"
+name                     : &name "Massimiliano Ruocco, PhD"
 description              : &description "Adj. Ass. Professor at DART@NTNU"
 url                      : https://ruoccoma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
