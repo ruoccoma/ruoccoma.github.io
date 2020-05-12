@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+My name is Massimiliano Ruocco. I have a PhD in Computer Science in the area of Information Retrieval from the Computer Science Department at NTNU and a MSc from University of Verona in Computer Science in the area of Computer Vision and Pattern Recognition.
 
-Lorem ipsum.
+I am currently Senior Research Scientist in the Analytics and Artificial Intelligence group in Telenor Resaerch and Adjunct Associate Professor in the DART (Data and Artificial Intelligence Group) at the Computer Science Dept. at NTNU and affiliated with the Norwegian AI Lab (NAIL). I am also part of the board of the Norwegian AI Society (NAIS).
